@@ -1,0 +1,25 @@
+
+.card{
+    width: 300px;
+    background-color: rgb(252, 252, 252);
+    box-shadow: 4px 4px 7px rgb(221, 221, 221);
+    display: block;
+    margin: 30px 40px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.card-image{
+    width: 150px;
+    margin: auto;
+}
+
+.btn{
+    color: rgb(12, 28, 243);
+    text-decoration: none;
+    margin: 10px ;
+    display: block;
+    border-radius: 10px;
+    font-size: 15px;
+    bottom: 0;
+}
